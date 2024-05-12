@@ -1,0 +1,15 @@
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\bin\Debug\net7.0\CustomStack.exe
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\bin\Debug\net7.0\CustomStack.deps.json
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\bin\Debug\net7.0\CustomStack.runtimeconfig.json
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\bin\Debug\net7.0\CustomStack.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\bin\Debug\net7.0\CustomStack.pdb
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.csproj.AssemblyReference.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.AssemblyInfo.cs
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\refint\CustomStack.dll
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.pdb
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\CustomStack.genruntimeconfig.cache
+C:\Users\SyamPrakashJayapraka\OneDrive - Syncfusion\Desktop\VideoLessonsQuestions\CustomStack\obj\Debug\net7.0\ref\CustomStack.dll
